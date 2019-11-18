@@ -4,6 +4,7 @@ Very Deep Convolutional Networks"(http://cv.snu.ac.kr/research/VDSR/) in PyTorch
 
 ## Usage
 ### Training
+get training and testing data from here: https://cv.snu.ac.kr/research/VDSR/
 ```
 usage: main_vdsr.py [-h] [--batchSize BATCHSIZE] [--nEpochs NEPOCHS] [--lr LR]
                [--step STEP] [--cuda] [--resume RESUME]
